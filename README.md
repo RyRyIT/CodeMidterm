@@ -7,8 +7,8 @@ The Purpose of this was to Create a responisve quiz/test that anyone with a good
 Cloning assest from the git lab repository
 
 ## Credits
-I collaborated with Matt Williams during the assignment. 
-
+https://www.youtube.com/watch?v=nCIjHTlztNg 
+Also Used a lot from the w3 scoohls javascript pages and a coulpe of hours from this vidfeo from Freecodecamp https://www.youtube.com/watch?v=grEKMHGYyns
 
 ## License
 No License was used for this assignment 
